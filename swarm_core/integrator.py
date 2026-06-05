@@ -1,2 +1,2 @@
-''' AGENT: INTEGRATOR | SCORE: 99/100 '''
+''' AGENT: INTEGRATOR | SCORE: 95/100 '''
 # Standard logic
