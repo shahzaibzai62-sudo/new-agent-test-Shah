@@ -1,2 +1,2 @@
-''' AGENT: DATABASE | SCORE: 99/100 '''
+''' AGENT: DATABASE | SCORE: 95/100 '''
 -- SQL Schema: Tables with foreign key constraints
