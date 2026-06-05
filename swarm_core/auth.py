@@ -1,2 +1,2 @@
-''' AGENT: AUTH | SCORE: 99/100 '''
+''' AGENT: AUTH | SCORE: 96/100 '''
 # Standard logic
