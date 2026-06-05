@@ -1,2 +1,2 @@
-''' AGENT: TESTER | SCORE: 98/100 '''
+''' AGENT: TESTER | SCORE: 97/100 '''
 # Standard logic
