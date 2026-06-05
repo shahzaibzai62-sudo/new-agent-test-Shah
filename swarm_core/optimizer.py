@@ -1,2 +1,2 @@
-''' AGENT: OPTIMIZER | SCORE: 98/100 '''
+''' AGENT: OPTIMIZER | SCORE: 97/100 '''
 // Minified assets & Latency optimization
