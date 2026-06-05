@@ -1,3 +1,3 @@
-''' AGENT: ARCHITECT | SCORE: 98/100 '''
+''' AGENT: ARCHITECT | SCORE: 96/100 '''
 # Project Structure: Micro-services
 structure = ['src/', 'public/', 'api/']
